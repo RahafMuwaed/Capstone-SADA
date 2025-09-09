@@ -29,6 +29,6 @@ This way, SADA enhances the overall experience of pilgrims and visitors from Mor
 ---
 
 ## 🏗️ Project Architecture
-![Architecture Diagram](docs/architecture.png)  
+[Architecture Diagram](architecture.png)  
 
 
