@@ -53,4 +53,4 @@ Here is a short demonstration of **SADA** in action:
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the LICENSE file for details.
+This project is licensed under All Rights Reserved — see the LICENSE file for details.
