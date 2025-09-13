@@ -41,5 +41,5 @@ Here is a short demonstration of **SADA** in action:
 - ❓ **Q&A Assistant**: Answers visitor questions related to their journey.  
 
 ### ▶️ Watch the Demo  
-- [Demo Video](demo/sada_demo.mp4) *(stored in this repository)
+- [Demo Video](sada_demo.mp4) 
 
