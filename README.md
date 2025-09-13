@@ -31,4 +31,15 @@ This way, SADA enhances the overall experience of pilgrims and visitors from Mor
 ## 🏗️ Project Architecture
 [Architecture Diagram](architecture.png)  
 
+## 🎥 Demo
+
+Here is a short demonstration of **SADA** in action:  
+
+- 🏨 **Hotel Booking**: The system extracts details such as check-in/check-out dates, budget, and preferences from Maghrebi Arabic input, then recommends suitable hotels.  
+- 🧳 **Trip Planning**: Generates a customized travel plan based on the city, trip type, and number of days.  
+- 🌐 **Dialect Translation**: Converts Maghrebi Arabic into Modern Standard Arabic (MSA) for smooth communication.  
+- ❓ **Q&A Assistant**: Answers visitor questions related to their journey.  
+
+### ▶️ Watch the Demo  
+- [Demo Video](demo/sada_demo.mp4) *(stored in this repository)
 
