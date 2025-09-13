@@ -43,3 +43,14 @@ Here is a short demonstration of **SADA** in action:
 ### ▶️ Watch the Demo  
 - [Demo Video](sada_demo.mp4) 
 
+## 👥Authors
+- Sadeem Almugamsi
+-  Rahaf Muwaed
+-  Rawan Alahmadi
+-  Baraa Alhanoti
+-  Fatimah Khatiri
+	•	Project supervised by Dr. Soumaya Chaffar
+
+## 📄 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
