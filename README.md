@@ -6,30 +6,36 @@ SADA integrates **machine translation**, **speech recognition**, and **intellige
 ---
 
 ## 📖 Project Overview
-One of the major challenges during Hajj and Umrah seasons is the difficulty of understanding the Maghrebi Arabic dialect in Saudi Arabia, which can create communication barriers between visitors from Morocco and local service providers.
 
-SADA is an intelligent system designed to solve this issue by:
-	•	🏨 Helping visitors search for and book hotels based on their preferred prices and features.
-	•	🧳 Generating personalized travel plans according to the city, type of trip, and number of days.
-	•	❓ Answering general questions related to their journey.
-	•	🌐 Automatically translating from Maghrebi Arabic dialect into Modern Standard Arabic (MSA) to ensure smooth communication.
+One of the major challenges during Hajj and Umrah seasons is the difficulty of understanding the **Maghrebi Arabic dialect** in Saudi Arabia, which can create communication barriers between visitors from Morocco and local service providers.  
 
-This way, SADA enhances the overall experience of pilgrims and visitors from Morocco by making services more accessible and seamless.
+**SADA** is an intelligent system designed to solve this issue by:  
+- 🏨 Helping visitors search for and book hotels based on their preferred prices and features.  
+- 🧳 Generating personalized travel plans according to the city, type of trip, and number of days.  
+- ❓ Answering general questions related to their journey.  
+- 🌐 Automatically translating from Maghrebi Arabic dialect into Modern Standard Arabic (MSA) to ensure smooth communication.  
+
+This way, SADA enhances the overall experience of pilgrims and visitors from Morocco by making services more accessible and seamless.  
 
 ---
 
 ## ✨ Features
-- 🌐 **Dialect to MSA Translation** (focus on Maghrebi dialects).  
-- 🗣️ **Speech-to-Text Integration**.  
-- 🧠 **NER (Named Entity Recognition)** for extracting booking details (dates, budget, location, preferences).  
-- 🔎 **RAG (Retrieval-Augmented Generation)** for enhanced responses.  
-- 🏨 **Hotel Booking Agent** integrated with Amadeus API and NER model .  
-- 🧳 **Trip Planning Agent** Generating personalized travel plans.  
+
+- 🌐 Dialect to MSA Translation (focus on Maghrebi dialects).  
+- 🗣️ Speech-to-Text Integration.  
+- 🧠 NER (Named Entity Recognition) for extracting booking details (dates, budget, location, preferences).  
+- 🔎 RAG (Retrieval-Augmented Generation) for enhanced responses.  
+- 🏨 Hotel Booking Agent integrated with Amadeus API and NER model.  
+- 🧳 Trip Planning Agent generating personalized travel plans.  
 
 ---
 
 ## 🏗️ Project Architecture
-[Architecture Diagram](architecture.png)  
+
+![Architecture Diagram](docs/architecture.png)  
+*(replace with your actual diagram if available)*  
+
+---
 
 ## 🎥 Demo
 
@@ -41,16 +47,22 @@ Here is a short demonstration of **SADA** in action:
 - ❓ **Q&A Assistant**: Answers visitor questions related to their journey.  
 
 ### ▶️ Watch the Demo  
-- [Demo Video](sada_demo.mp4) 
+- [Demo Video](demo/sada_demo.mp4) *(or add YouTube link if the file is too large)*  
 
-## 👥Authors
-- Sadeem Almugamsi
--  Rahaf Muwaed
--  Rawan Alahmadi
--  Baraa Alhanoti
--  Fatimah Khatiri
-	•	Project supervised by Dr. Soumaya Chaffar
+---
+
+## 👥 Authors
+
+- **Sadeem Almugamsi**  
+- **Rahaf Muwaed**  
+- **Rawan Alahmadi**  
+- **Baraa Alhanoti**  
+- **Fatimah Khatiri**  
+
+*Project supervised by **Dr. Soumaya Chaffar***  
+
+---
 
 ## 📄 License
 
-This project is licensed under All Rights Reserved — see the LICENSE file for details.
+This project is licensed under **All Rights Reserved** — see the [LICENSE](LICENSE) file for details.  
