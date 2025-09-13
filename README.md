@@ -32,7 +32,7 @@ This way, SADA enhances the overall experience of pilgrims and visitors from Mor
 
 ## 🏗️ Project Architecture
 
-![Architecture Diagram](docs/architecture.png)  
+![Architecture Diagram](architecture.png)  
 
 ---
 
@@ -46,7 +46,7 @@ Here is a short demonstration of **SADA** in action:
 - ❓ **Q&A Assistant**: Answers visitor questions related to their journey.  
 
 ### ▶️ Watch the Demo  
-- [Demo Video](demo/sada_demo.mp4) 
+- [Demo Video](sada_demo.mp4) 
 ---
 
 ## 👥 Authors
